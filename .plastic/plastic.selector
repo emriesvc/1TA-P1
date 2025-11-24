@@ -1,4 +1,0 @@
-repository "JingleHunt/JingleHunt@1375861991386@cloud"
-  path "/"
-    br "/main"
-    co "/main"
