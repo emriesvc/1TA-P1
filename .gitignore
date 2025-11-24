@@ -102,3 +102,6 @@ InitTestScene*.unity*
 
 # Visual Studio cache files
 .vsconfig
+
+# Control de versiones de Unity 
+.plastic
