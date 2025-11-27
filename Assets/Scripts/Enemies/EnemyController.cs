@@ -157,7 +157,7 @@ public class EnemyController : MonoBehaviour
             // Si choca con el jugador, no queremos que cambie de dirección, así que ignoramos
             if (collision.gameObject.CompareTag("Player"))
             {
-                return;
+                ChangeDirection();
             }
 
             // Cambiar dirección y Saltar

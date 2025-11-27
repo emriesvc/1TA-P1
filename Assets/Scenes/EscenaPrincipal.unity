@@ -1288,14 +1288,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemigo_1
       objectReference: {fileID: 0}
-    - target: {fileID: 4600754761599436109, guid: eb1c154ccb16b1c4a8ef2efe4813c889, type: 3}
-      propertyPath: m_Layer
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 8777563097362395100, guid: eb1c154ccb16b1c4a8ef2efe4813c889, type: 3}
-      propertyPath: m_IsTrigger
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
