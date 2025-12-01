@@ -105,3 +105,7 @@ InitTestScene*.unity*
 
 # Control de versiones de Unity 
 .plastic
+
+# --- Unity ProjectSettings auto-generados que no queremos trackear ---
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/ShaderGraphSettings.asset
