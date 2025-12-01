@@ -102,3 +102,10 @@ InitTestScene*.unity*
 
 # Visual Studio cache files
 .vsconfig
+
+# Control de versiones de Unity 
+.plastic
+
+# --- Unity ProjectSettings auto-generados que no queremos trackear ---
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/ShaderGraphSettings.asset
